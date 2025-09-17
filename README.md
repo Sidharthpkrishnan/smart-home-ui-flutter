@@ -1,4 +1,4 @@
-# smart_home_ui
+# smart-home-ui-flutter
 
 A new Flutter project.
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# smart-home-ui-flutter
+>>>>>>> 03500a4435db781c49f1a2727fb1061bf93eb1f9
